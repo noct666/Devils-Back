@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Border
+  - Enemy
+  - Bullet
+  - EnemyB
+  - Fourth
+  - FourthCircle
+  - Blow
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Dylo
+  - Player
+  - smth
+  - Enemy
+  - PostProccesing
+  - Obstacle
+  - Igrok
+  - Border
+  - zxc
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 3973264565
+    locked: 0
+  - name: Dylo
+    uniqueID: 1744405789
+    locked: 0
+  - name: New Layer
+    uniqueID: 696336849
+    locked: 0

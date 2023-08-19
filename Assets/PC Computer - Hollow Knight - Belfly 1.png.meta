@@ -1,0 +1,616 @@
+fileFormatVersion: 2
+guid: d57e3710dc9a8e84c8077f3d993a9268
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1838684698239458031
+    second: PC Computer - Hollow Knight - Belfly 1_0
+  - first:
+      213: 2862960508816214164
+    second: PC Computer - Hollow Knight - Belfly 1_1
+  - first:
+      213: -3681436289233937014
+    second: PC Computer - Hollow Knight - Belfly 1_2
+  - first:
+      213: -2008302698509901121
+    second: PC Computer - Hollow Knight - Belfly 1_3
+  - first:
+      213: -5963078830008131474
+    second: PC Computer - Hollow Knight - Belfly 1_4
+  - first:
+      213: -4535091311410936033
+    second: PC Computer - Hollow Knight - Belfly 1_5
+  - first:
+      213: 1903486105507189532
+    second: PC Computer - Hollow Knight - Belfly 1_6
+  - first:
+      213: 5009547464204181425
+    second: PC Computer - Hollow Knight - Belfly 1_7
+  - first:
+      213: -6950939682588798999
+    second: PC Computer - Hollow Knight - Belfly 1_8
+  - first:
+      213: -643811316716683946
+    second: PC Computer - Hollow Knight - Belfly 1_9
+  - first:
+      213: -6536852756337738684
+    second: PC Computer - Hollow Knight - Belfly 1_10
+  - first:
+      213: 2346613918334902618
+    second: PC Computer - Hollow Knight - Belfly 1_11
+  - first:
+      213: 8808417163813964603
+    second: PC Computer - Hollow Knight - Belfly 1_12
+  - first:
+      213: -9180811065115553014
+    second: PC Computer - Hollow Knight - Belfly 1_13
+  - first:
+      213: 6061217598656105359
+    second: PC Computer - Hollow Knight - Belfly 1_14
+  - first:
+      213: -9105702600489485590
+    second: PC Computer - Hollow Knight - Belfly 1_15
+  - first:
+      213: -159328632857219263
+    second: PC Computer - Hollow Knight - Belfly 1_16
+  - first:
+      213: 680446156601844413
+    second: PC Computer - Hollow Knight - Belfly 1_17
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Belfly 1_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1200
+        width: 110
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea5284cdf1548910800000000000000
+      internalID: 1838684698239458031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Belfly 1_1
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1200
+        width: 110
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49846f50a674bb720800000000000000
+      internalID: 2862960508816214164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Belfly 1_2
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1200
+        width: 110
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d9af43339e8ecc0800000000000000
+      internalID: -3681436289233937014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Belfly 1_3
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1200
+        width: 110
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2ebdd06531124e0800000000000000
+      internalID: -2008302698509901121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Belfly 1_4
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1200
+        width: 110
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60a6b9d563ee3da0800000000000000
+      internalID: -5963078830008131474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Belfly 1_5
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1200
+        width: 110
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17046fea7e1011c0800000000000000
+      internalID: -4535091311410936033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Belfly 1_6
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 1200
+        width: 110
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13d5a1278a8a6a10800000000000000
+      internalID: 1903486105507189532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Belfly 1_7
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1200
+        width: 110
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf595180ec758540800000000000000
+      internalID: 5009547464204181425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Belfly 1_8
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1200
+        width: 110
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9efc024bf2d498f90800000000000000
+      internalID: -6950939682588798999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Belfly 1_9
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 960
+        width: 189
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65db9bcb409b017f0800000000000000
+      internalID: -643811316716683946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Belfly 1_10
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 960
+        width: 189
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44cb4754d0f6845a0800000000000000
+      internalID: -6536852756337738684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Belfly 1_11
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 960
+        width: 189
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51e6530de8d09020800000000000000
+      internalID: 2346613918334902618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Belfly 1_12
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 960
+        width: 189
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3bc592ddb8cd3a70800000000000000
+      internalID: 8808417163813964603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Belfly 1_13
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 737
+        width: 189
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03dfc17af4379080800000000000000
+      internalID: -9180811065115553014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Belfly 1_14
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 737
+        width: 189
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b4e32da45cd1450800000000000000
+      internalID: 6061217598656105359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Belfly 1_15
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 738
+        width: 189
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea397b9abb02a180800000000000000
+      internalID: -9105702600489485590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Belfly 1_16
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 739
+        width: 187
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f2ffbd373f9cdf0800000000000000
+      internalID: -159328632857219263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Belfly 1_17
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 737
+        width: 189
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2680d9c2e617900800000000000000
+      internalID: 680446156601844413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Hollow Knight - Belfly 1_0: 1838684698239458031
+      PC Computer - Hollow Knight - Belfly 1_1: 2862960508816214164
+      PC Computer - Hollow Knight - Belfly 1_10: -6536852756337738684
+      PC Computer - Hollow Knight - Belfly 1_11: 2346613918334902618
+      PC Computer - Hollow Knight - Belfly 1_12: 8808417163813964603
+      PC Computer - Hollow Knight - Belfly 1_13: -9180811065115553014
+      PC Computer - Hollow Knight - Belfly 1_14: 6061217598656105359
+      PC Computer - Hollow Knight - Belfly 1_15: -9105702600489485590
+      PC Computer - Hollow Knight - Belfly 1_16: -159328632857219263
+      PC Computer - Hollow Knight - Belfly 1_17: 680446156601844413
+      PC Computer - Hollow Knight - Belfly 1_2: -3681436289233937014
+      PC Computer - Hollow Knight - Belfly 1_3: -2008302698509901121
+      PC Computer - Hollow Knight - Belfly 1_4: -5963078830008131474
+      PC Computer - Hollow Knight - Belfly 1_5: -4535091311410936033
+      PC Computer - Hollow Knight - Belfly 1_6: 1903486105507189532
+      PC Computer - Hollow Knight - Belfly 1_7: 5009547464204181425
+      PC Computer - Hollow Knight - Belfly 1_8: -6950939682588798999
+      PC Computer - Hollow Knight - Belfly 1_9: -643811316716683946
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
